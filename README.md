@@ -3,6 +3,8 @@
 
 A React application built with Vite and hosted on **AWS S3** using static website hosting. This project focuses on **frontend deployment and cloud hosting**, not on application features or UI complexity.
 
+Click Here To Run this Project 👉http://deploy-vite-and-react-app-on-aws-s3.s3-website-us-east-1.amazonaws.com 👈
+
 ---
 
 ## 🚀 Deploy React (Vite) Application on AWS S3
@@ -205,7 +207,6 @@ Go to **Permissions → Bucket policy** and paste the following policy:
 
 Your **React (Vite) application** is now live on **AWS S3** as a static website!
 
-Click here To check this Project ->> http://deploy-vite-and-react-app-on-aws-s3.s3-website-us-east-1.amazonaws.com
 
-Happy Deploying 🚀
+**Click Here To Run this Project 👉http://deploy-vite-and-react-app-on-aws-s3.s3-website-us-east-1.amazonaws.com 👈**
 
